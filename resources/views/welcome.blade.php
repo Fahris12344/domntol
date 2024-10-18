@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
     <!-- Site Meta -->
-    <title>Sekolah</title>
+    <title>Sekolah Demonic</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -177,7 +177,7 @@
                     <div class="col-md-8">
                         <div class="custom-module p40l">
                             <h2>Kami adalah <mark>sistem pembelajaran</mark> yang berdedikasi<br>
-                                dari Jakarta. Menyediakan desain digital & pengembangan web <br>
+                                dari Banyuwangi. Menyediakan desain digital & pengembangan web <br>
                                 yang mudah digunakan untuk pendidikan.</h2>
                         
                             <p>Temukan pengalaman belajar yang lebih baik. Kami menawarkan platform yang didesain untuk memudahkan siswa dan guru. Akses berbagai fitur dan konten pendidikan yang berkualitas.</p>

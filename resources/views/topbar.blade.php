@@ -4,8 +4,8 @@
             <div class="row-fluid">
                 <div class="col-md-6 col-sm-6 text-left">
                     <p>
-                        <strong><i class="fa fa-phone"></i></strong> +90 543 123 45 67 &nbsp;&nbsp;
-                        <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:#">info@yoursite.com</a>
+                        <strong><i class="fa fa-phone"></i></strong> +62 815 4874 3796 &nbsp;&nbsp;
+                        <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:#">tzyarchon@gmail.com</a>
                     </p>
                 </div><!-- end left -->
                 <div class="col-md-6 col-sm-6 hidden-xs text-right">
