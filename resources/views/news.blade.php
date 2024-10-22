@@ -9,7 +9,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="blog-box">
                     <div class="image-wrap entry">
-                        <img src="assets/upload/blog_01.jpeg" alt="" class="img-responsive">
+                        <img src="assets/images/news.jpg" alt="" class="img-responsive">
                         <div class="magnifier">
                              <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
                         </div>
@@ -33,7 +33,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="blog-box">
                     <div class="image-wrap entry">
-                        <img src="assets/upload/blog_02.jpeg" alt="" class="img-responsive">
+                        <img src="assets/images/news.jpg" alt="" class="img-responsive">
                         <div class="magnifier">
                              <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
                         </div>
@@ -57,7 +57,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="blog-box">
                     <div class="image-wrap entry">
-                        <img src="assets/upload/blog_03.jpeg" alt="" class="img-responsive">
+                        <img src="assets/images/news.jpg" alt="" class="img-responsive">
                         <div class="magnifier">
                              <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
                         </div>
